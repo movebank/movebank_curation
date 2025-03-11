@@ -1,0 +1,1 @@
+Resources to help people work with data in Movebank, especially for large-scale analysis and collaborators using the data of others. We welcome contributions of code for quality control and to ensure best practice for data use.
